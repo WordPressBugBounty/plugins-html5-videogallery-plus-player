@@ -45,7 +45,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 											<tr>
 												<td>
 													<p><?php esc_html_e('Boost design and best solution for your website.', 'html5-videogallery-plus-player'); ?></p> <br/>
-													<a class="button button-primary button-orange" href="<?php echo esc_url(WP_HTML5VP_PLUGIN_LINK_UNLOCK); ?>" target="_blank"><?php esc_html_e('Try Pro For 5 Days Free', 'html5-videogallery-plus-player'); ?></a>
+													<a class="button button-primary button-orange" href="<?php echo esc_url(WP_HTML5VP_PLUGIN_LINK_UNLOCK); ?>" target="_blank"><?php esc_html_e('Try Pro with Back Friday Deals', 'html5-videogallery-plus-player'); ?></a>
 												</td>
 											</tr>
 										</tbody>
@@ -178,7 +178,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 										<li>Popup gallery slider</li>
 									</ul>
 									<div class="upgrade-to-pro">Gain access to <strong>Video Gallery and Player</strong></div>
-									<a class="button button-primary wpos-button-full button-orange" href="<?php echo esc_url(WP_HTML5VP_PLUGIN_LINK_UNLOCK); ?>" target="_blank"><?php esc_html_e('Try Pro For 5 Days Free', 'html5-videogallery-plus-player'); ?></a>
+									<a class="button button-primary wpos-button-full button-orange" href="<?php echo esc_url(WP_HTML5VP_PLUGIN_LINK_UNLOCK); ?>" target="_blank"><?php esc_html_e('Try Pro with Back Friday Deals', 'html5-videogallery-plus-player'); ?></a>
 								</div><!-- .inside -->
 							</div><!-- #general -->
 						</div><!-- .meta-box-sortables ui-sortable -->

@@ -47,7 +47,7 @@ class Html5vp_Admin {
 		add_submenu_page( 'edit.php?post_type='.WP_HTML5VP_POST_TYPE, __('How it works, our plugins and offers', 'html5-videogallery-plus-player'), __('How It Works', 'html5-videogallery-plus-player'), 'manage_options', 'vgap-designs', array($this, 'vgap_designs_page') );
 
 		// Register plugin premium page
-		add_submenu_page( 'edit.php?post_type='.WP_HTML5VP_POST_TYPE, __('Upgrade To Premium  - Video gallery and Player', 'html5-videogallery-plus-player'), '<span style="color:#ff2700">'.__('Upgrade To Pro - Try Pro For 5 Days Free', 'html5-videogallery-plus-player').'</span>', 'manage_options', 'html5vp-premium', array($this, 'html5vp_premium_page') );
+		add_submenu_page( 'edit.php?post_type='.WP_HTML5VP_POST_TYPE, __('Upgrade To Premium  - Video gallery and Player', 'html5-videogallery-plus-player'), '<span style="color:#ff2700">'.__('Upgrade To PRO – Early Back Friday Deals', 'html5-videogallery-plus-player').'</span>', 'manage_options', 'html5vp-premium', array($this, 'html5vp_premium_page') );
 	}
 
 	/**

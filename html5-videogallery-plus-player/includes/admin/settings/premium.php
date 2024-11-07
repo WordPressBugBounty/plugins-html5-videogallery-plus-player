@@ -63,6 +63,10 @@ if ( !defined( 'ABSPATH' ) ) {
 		.wpos-sidebar .wpos-epb-wrap .button-orange{font-weight: 600;color: #fff; text-align:center;text-decoration: none;display:block;padding: 1em 2em;background: #ff2700;border-radius: .2em;}
 	</style>
 	
+	<div class="html5video-black-friday-banner-wrp">
+		<a href="<?php echo esc_url( WP_HTML5VP_PLUGIN_LINK_UPGRADE ); ?>" target="_blank"><img style="width: 100%;" src="<?php echo esc_url(  WP_HTML5VP_URL ); ?>assets/images/black-friday-banner.png" alt="black-friday-banner" /></a>
+	</div>
+
 	<div id="poststuff">
 		<div id="post-body" class="metabox-holder">
 			<div id="post-body-content">
@@ -80,7 +84,7 @@ if ( !defined( 'ABSPATH' ) ) {
 							<th>
 								<h2 class="wpos-epb">Premium</h2>
 								<p style="margin-bottom: 10px;">Gain access to <strong>Video Gallery Image</strong> included in <br /><strong class="wpos-epb">Essential Plugin Bundle</strong></p>
-								<a href="<?php echo esc_url(WP_HTML5VP_PLUGIN_LINK_UPGRADE); ?>" target="_blank">Try Pro For 5 Days Free</a>
+								<a href="<?php echo esc_url(WP_HTML5VP_PLUGIN_LINK_UPGRADE); ?>" target="_blank">Try Pro with Back Friday Deals</a>
 							</th>
 						</tr>
 					</thead>
@@ -218,7 +222,7 @@ if ( !defined( 'ABSPATH' ) ) {
 							<th></th>
 							<td></td>
 							<td><p>Gain access to <strong>Video Gallery Image</strong> included in <br /><strong>Essential Plugin Bundle</strong></p>
-							<a href="<?php echo esc_url(WP_HTML5VP_PLUGIN_LINK_UPGRADE); ?>" target="_blank">Try Pro For 5 Days Free</a>
+							<a href="<?php echo esc_url(WP_HTML5VP_PLUGIN_LINK_UPGRADE); ?>" target="_blank">Try Pro with Back Friday Deals</a>
 						</tr>
 					</tfoot>
 				</table>

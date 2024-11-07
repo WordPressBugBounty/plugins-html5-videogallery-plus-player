@@ -6,7 +6,7 @@
  * Domain Path: /languages/
  * Description: Easy to add and display your HTML5, YouTube, Vimeo vedio gallery with Magnific Popup to your website. Also work with Gutenberg shortcode block.
  * Author: WP OnlineSupport, Essential Plugin
- * Version: 2.8.1
+ * Version: 2.8.2
  * Author URI: https://www.essentialplugin.com/wordpress-plugin/video-gallery-player/
  *
  * @package WordPress
@@ -17,7 +17,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 if( ! defined( 'WP_HTML5VP_VERSION' ) ) {
-	define( 'WP_HTML5VP_VERSION', '2.8.1' ); // Version of plugin
+	define( 'WP_HTML5VP_VERSION', '2.8.2' ); // Version of plugin
 }
 if( ! defined( 'WP_HTML5VP_DIR' ) ) {
 	define( 'WP_HTML5VP_DIR', dirname( __FILE__ ) ); // Plugin dir
@@ -38,11 +38,11 @@ if( ! defined( 'WP_HTML5VP_POST_TYPE' ) ) {
 // }
 
 if( ! defined( 'WP_HTML5VP_PLUGIN_LINK_UNLOCK' ) ) {
-	define('WP_HTML5VP_PLUGIN_LINK_UNLOCK', 'https://www.wponlinesupport.com/checkout/?edd_action=add_to_cart&download_id=14791&edd_options[price_id]=7&wpos_cart_flush=1&utm_source=WP&utm_medium=video-gallery&utm_campaign=Features-PRO'); // Plugin link
+	define('WP_HTML5VP_PLUGIN_LINK_UNLOCK', 'https://www.essentialplugin.com/pricing/?utm_source=WP&utm_medium=video-gallery&utm_campaign=Features-PRO'); // Plugin link
 }
 
 if( ! defined( 'WP_HTML5VP_PLUGIN_LINK_UPGRADE' ) ) {
-	define('WP_HTML5VP_PLUGIN_LINK_UPGRADE', 'https://www.wponlinesupport.com/checkout/?edd_action=add_to_cart&download_id=14791&edd_options[price_id]=7&wpos_cart_flush=1&utm_source=WP&utm_medium=video-gallery&utm_campaign=Upgrade-PRO'); // Plugin link
+	define('WP_HTML5VP_PLUGIN_LINK_UPGRADE', 'https://www.essentialplugin.com/pricing/?utm_source=WP&utm_medium=video-gallery&utm_campaign=Upgrade-PRO'); // Plugin link
 }
 
 if( ! defined( 'WP_HTML5VP_SITE_LINK' ) ) {

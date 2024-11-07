@@ -58,7 +58,6 @@ class WP_Html5Vp_Script {
 
 		// If page is plugin setting page then enqueue script
 		if( in_array($post_type, $registered_posts) ) {
-
 			wp_enqueue_style( 'wp-html5vp-admin-style' );
 		}
 	}
