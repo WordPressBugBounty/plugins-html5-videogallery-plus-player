@@ -6,7 +6,7 @@
  * Domain Path: /languages/
  * Description: Easy to add and display your HTML5, YouTube, Vimeo vedio gallery with Magnific Popup to your website. Also work with Gutenberg shortcode block.
  * Author: WP OnlineSupport, Essential Plugin
- * Version: 2.8.2
+ * Version: 2.8.3
  * Author URI: https://www.essentialplugin.com/wordpress-plugin/video-gallery-player/
  *
  * @package WordPress
@@ -17,7 +17,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 if( ! defined( 'WP_HTML5VP_VERSION' ) ) {
-	define( 'WP_HTML5VP_VERSION', '2.8.2' ); // Version of plugin
+	define( 'WP_HTML5VP_VERSION', '2.8.3' ); // Version of plugin
 }
 if( ! defined( 'WP_HTML5VP_DIR' ) ) {
 	define( 'WP_HTML5VP_DIR', dirname( __FILE__ ) ); // Plugin dir

@@ -2,8 +2,8 @@
 Contributors: wponlinesupport, anoopranawat, pratik-jain, piyushpatel123, ridhimashukla, patelketan
 Tags: video gallery magnific Popup, youtube video gallery with popup, vimeo video gallery with popup, HTML5 video gallery player, wordpress responsive video gallery
 Requires at least: 4.0
-Tested up to: 6.6.2
-Stable tag: 2.8.2
+Tested up to: 6.7.1
+Stable tag: 2.8.3
 License: GPLv2 or later
 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -106,6 +106,9 @@ Where limit define the number of posts to display.
 7. Also work with Gutenberg shortcode block.
 
 == Changelog ==
+
+= 2.8.3 (21, January 2025) =
+* [*] Check compatibility to WordPress version 6.7.1
 
 = 2.8.2 (07, Nov 2024) =
 * [*] Check compatibility with WordPress version 6.6.2
