@@ -14,8 +14,8 @@ function wp_html5vp_register_guten_block() {
 
 	wp_register_script( 'wp-html5vp-block-js', WP_HTML5VP_URL.'assets/js/blocks.build.js', array( 'wp-blocks', 'wp-i18n', 'wp-element', 'wp-block-editor', 'wp-components' ), WP_HTML5VP_VERSION, true );
 	wp_localize_script( 'wp-html5vp-block-js', 'WP_Html5Vp_Block', array(
-															'pro_demo_link'		=> 'https://demo.wponlinesupport.com/prodemo/video-gallery-and-player-pro-demo/',
-															'free_demo_link'	=> 'https://demo.wponlinesupport.com/video-gallery-and-player-demo/',
+															'pro_demo_link'		=> 'https://demo.essentialplugin.com/prodemo/video-gallery-and-player-pro-demo/',
+															'free_demo_link'	=> 'https://demo.essentialplugin.com/video-gallery-and-player-demo/',
 															'pro_link'			=> WP_HTML5VP_PLUGIN_LINK_UNLOCK,
 														));
 

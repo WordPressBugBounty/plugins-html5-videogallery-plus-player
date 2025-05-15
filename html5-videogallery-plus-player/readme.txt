@@ -1,14 +1,14 @@
 ﻿=== Video gallery and Player ===
-Contributors: wponlinesupport, anoopranawat, pratik-jain, piyushpatel123, ridhimashukla, patelketan
+Contributors: essentialplugin
 Tags: video gallery magnific Popup, youtube video gallery with popup, vimeo video gallery with popup, HTML5 video gallery player, wordpress responsive video gallery
 Requires at least: 4.0
-Tested up to: 6.7.1
-Stable tag: 2.8.3
+Tested up to: 6.8.1
+Stable tag: 2.8.4
 License: GPLv2 or later
 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easy to add and display your HTML5, YouTube, Vimeo vedio gallery with Magnific Popup to your website. Also work with Gutenberg shortcode block. 
+Easy to add and display your HTML5, YouTube, Vimeo vedio gallery with Magnific Popup to your website. Also work with Gutenberg shortcode block.
 
 == Description ==
 
@@ -106,6 +106,9 @@ Where limit define the number of posts to display.
 7. Also work with Gutenberg shortcode block.
 
 == Changelog ==
+
+= 2.8.4 (15, May 2025) =
+* [*] Check compatibility with WordPress version 6.8.1
 
 = 2.8.3 (21, January 2025) =
 * [*] Check compatibility to WordPress version 6.7.1

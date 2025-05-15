@@ -5,19 +5,20 @@
  * Text Domain: html5-videogallery-plus-player
  * Domain Path: /languages/
  * Description: Easy to add and display your HTML5, YouTube, Vimeo vedio gallery with Magnific Popup to your website. Also work with Gutenberg shortcode block.
- * Author: WP OnlineSupport, Essential Plugin
- * Version: 2.8.3
+ * Author: Essential Plugin
+ * Version: 2.8.4
  * Author URI: https://www.essentialplugin.com/wordpress-plugin/video-gallery-player/
  *
- * @package WordPress
- * @author WP OnlineSupport
+ * @package Video gallery and Player
+ * @author Essential Plugin
  */
+
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
 if( ! defined( 'WP_HTML5VP_VERSION' ) ) {
-	define( 'WP_HTML5VP_VERSION', '2.8.3' ); // Version of plugin
+	define( 'WP_HTML5VP_VERSION', '2.8.4' ); // Version of plugin
 }
 if( ! defined( 'WP_HTML5VP_DIR' ) ) {
 	define( 'WP_HTML5VP_DIR', dirname( __FILE__ ) ); // Plugin dir
@@ -28,23 +29,12 @@ if( ! defined( 'WP_HTML5VP_URL' ) ) {
 if( ! defined( 'WP_HTML5VP_POST_TYPE' ) ) {
 	define( 'WP_HTML5VP_POST_TYPE', 'sp_html5video' ); // Plugin post type name
 }
-
-// if( ! defined( 'WP_HTML5VP_PLUGIN_LINK_UNLOCK' ) ) {
-// 	define( 'WP_HTML5VP_PLUGIN_LINK_UNLOCK', 'https://www.essentialplugin.com/essential-plugin-bundle-pricing/?utm_source=WP&utm_medium=video-gallery&utm_campaign=Features-PRO' ); // Plugin link
-// }
-
-// if( ! defined( 'WP_HTML5VP_PLUGIN_LINK_UPGRADE' ) ) {
-// 	define( 'WP_HTML5VP_PLUGIN_LINK_UPGRADE', 'https://www.essentialplugin.com/pricing/?utm_source=WP&utm_medium=video-gallery&utm_campaign=Upgrade-PRO' ); // Plugin Check link
-// }
-
 if( ! defined( 'WP_HTML5VP_PLUGIN_LINK_UNLOCK' ) ) {
 	define('WP_HTML5VP_PLUGIN_LINK_UNLOCK', 'https://www.essentialplugin.com/pricing/?utm_source=WP&utm_medium=video-gallery&utm_campaign=Features-PRO'); // Plugin link
 }
-
 if( ! defined( 'WP_HTML5VP_PLUGIN_LINK_UPGRADE' ) ) {
 	define('WP_HTML5VP_PLUGIN_LINK_UPGRADE', 'https://www.essentialplugin.com/pricing/?utm_source=WP&utm_medium=video-gallery&utm_campaign=Upgrade-PRO'); // Plugin link
 }
-
 if( ! defined( 'WP_HTML5VP_SITE_LINK' ) ) {
 	define('WP_HTML5VP_SITE_LINK','https://www.essentialplugin.com'); // Plugin link
 }
