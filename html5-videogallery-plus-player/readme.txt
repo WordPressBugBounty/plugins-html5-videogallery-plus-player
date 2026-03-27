@@ -2,7 +2,7 @@
 Contributors: essentialplugin
 Tags: video gallery magnific Popup, youtube video gallery with popup, vimeo video gallery with popup, HTML5 video gallery player, wordpress responsive video gallery
 Requires at least: 4.0
-Tested up to: 6.8.3
+Tested up to: 6.9.1
 Stable tag: 2.8.7
 License: GPLv2 or later
 
